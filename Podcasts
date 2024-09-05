@@ -1,0 +1,17 @@
+{
+  
+  "status":200,
+  "channels":[
+   {
+     "name":"channel 1",
+     "url":"http://stream.dancewave.online:8080/dance.mp3"
+   },
+    {
+      "name":"channel 2",
+      "url":"https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/soul.m3u"
+    },{
+      "name":"khavaran Radio",
+      "url":"http://s1.cdn3.iranseda.ir:1935/liveedgeprovincial/radio-khorasanjonoobi/playlist.m3u8"
+    }
+  ]
+}
