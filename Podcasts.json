@@ -8,7 +8,7 @@
    },
     {
       "name":"channel 2",
-      "url":"http://mscp3.live-streams.nl:8360/flac.flac"
+      "url":"http://icecast.centaury.cl:7570/SuperStereoHiRes5"
     },{
       "name":"khavaran Radio",
       "url":"http://s1.cdn3.iranseda.ir:1935/liveedgeprovincial/radio-khorasanjonoobi/playlist.m3u8"
